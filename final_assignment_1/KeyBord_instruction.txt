@@ -1,0 +1,6 @@
+p --> puse(sky, sun)
+s --> start (sky, sun)
+r --> start rain
+n --> night view
+m --> night view with rain
+d --> day view
